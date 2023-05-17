@@ -5,3 +5,8 @@
 
 [[vimwiki]]
 
+== CHEAT ==
+
+[[regex]]
+
+

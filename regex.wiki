@@ -1,0 +1,6 @@
+= regex = 
+
+=== test ===
+
+ -InternalBattery-0 (id=21233763)	100%; discharging; (no estimate) present: true
+  -InternalBattery-0 (id=21233763)	100%; discharging; (no estimate) present: true
